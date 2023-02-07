@@ -15,7 +15,11 @@ body{
     display: flex;
     justify-content: space-around;    
     font-size:20px;
+    
       
+}
+#four{
+    size: 60px;
 }
 .contact{
     margin-left: 500px;
