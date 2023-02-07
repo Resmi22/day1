@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+    padding: 0px;
+
+}
+.web{
+    padding: 100px; 
+    text-align: center; 
+    background: #1abc9c; 
+    color: white;
+}
+.home{
+    margin:8px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-around;    
+    font-size:20px;
+      
+}
+.contact{
+    margin-left: 500px;
+    padding:20px;
+    background-color: palevioletred;
+    font-size: 20px;
+
+}
+#para1{
+    font-size: 30px;
+    font-weight: bold;
+}
+#para2{
+   margin-bottom: 0px;
+}
+#image{
+    size: 60px;
+}
+.ct{
+    text-align: center;
+    
+}
